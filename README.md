@@ -29,7 +29,7 @@
 
 A proposta do projeto é a criação de um app wiki, no caso de consulta de informações sobre pokémons.
   
-Este projeto foi desenvolvido com intuito de aprimorar os conhecimentos no uso de API'S utilizando a biblioteca Retrofit, arquitetura MVVM e Reprodução de imagens de API a biblioteca Picasso.
+Este projeto foi desenvolvido com intuito de aprimorar os conhecimentos no uso de API's utilizando a biblioteca Retrofit, arquitetura MVVM e Reprodução de imagens de API a biblioteca Picasso.
 
 --- 
 
