@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/drawable/bug.xml" value="0.2475" />
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/drawable/electric.xml" value="0.2475" />
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/drawable/fire.xml" value="0.2475" />
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/drawable/grass.xml" value="0.2475" />
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/drawable/ground.xml" value="0.2475" />
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/drawable/ic_circle.xml" value="0.3675" />
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/drawable/ic_search.xml" value="0.3675" />
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/drawable/normal.xml" value="0.2475" />
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/drawable/poison.xml" value="0.2475" />
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/drawable/view_bk.xml" value="0.3675" />
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/drawable/water.xml" value="0.2475" />
+        <entry key="..\:/Users/hemarinho/AndroidStudioProjects/PokeAPI/app/src/main/res/layout/activity_main.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
